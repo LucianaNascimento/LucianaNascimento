@@ -13,7 +13,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/898488317845331990/898488375714136095/download20211005051320.png">
+  <img align="right" alt="luciana-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/898488317845331990/898488375714136095/download20211005051320.png">
 </div>
   
   ##
@@ -23,7 +23,7 @@
  
   <a href="https://www.linkedin.com/in/luciana-nascimento-a5028439/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LucianaNascimento/LucianaNascimento/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
