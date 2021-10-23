@@ -14,7 +14,7 @@ widtht="160em" src="https://github-readme-stats.vercel.app/api?username=LucianaN
   <img align="center" alt="Luci-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luci-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luci-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right"  alt="luciana-pic" height="150" style="border-radius:50px" src="https://cdn.discordapp.com/attachments/898488317845331990/898488375714136095/download20211005051320.png">
+  <img align="right"  alt="luciana-pic" height="150" style="border-radius=50px" src="https://cdn.discordapp.com/attachments/898488317845331990/898488375714136095/download20211005051320.png">
 </div>
   
   ##
