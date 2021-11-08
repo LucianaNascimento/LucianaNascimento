@@ -24,7 +24,7 @@ widtht="160em" src="https://github-readme-stats.vercel.app/api?username=LucianaN
  
   <a href="https://www.linkedin.com/in/luciana-nascimento-a5028439/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  <!-![Snake animation](https://github.com/LucianaNascimento/LucianaNascimento/blob/output/github-contribution-grid-snake.svg)->
+  <!--![Snake animation](https://github.com/LucianaNascimento/LucianaNascimento/blob/output/github-contribution-grid-snake.svg)-->
  
 </div>
 
